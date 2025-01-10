@@ -2,7 +2,7 @@
 
   <img src="https://github.com/Gourieff/Assets/raw/main/sd-webui-reactor/ReActor_logo_NEW_EN.png?raw=true" alt="logo" width="180px"/>
     
-  ![Version](https://img.shields.io/badge/version-0.7.0_beta7-green?style=for-the-badge&labelColor=darkgreen)
+  ![Version](https://img.shields.io/badge/version-0.7.1_beta2-green?style=for-the-badge&labelColor=darkgreen)
   
   <a href="https://boosty.to/artgourieff" target="_blank">
     <img src="https://lovemet.ru/www/boosty.jpg" width="108" alt="Support Me on Boosty"/>
@@ -40,8 +40,15 @@
 
 ## What's new in the latest updates
 
+### 0.7.1 <sub><sup>BETA1
+
+- Allow spaces for face indexes (e.g.: 0, 1, 2)
+- Sorting of face models list alphabetically
+- [FaceModels Build API](./API.md#facemodel-build-api)
+- Fixes and improvements
+
 <details>
-	<summary><a>Click to expand</a></summary>
+	<summary><a>Click to expand more</a></summary>
 
 ### 0.7.0 <sub><sup>BETA2
 

@@ -2,7 +2,7 @@
 
   <img src="https://github.com/Gourieff/Assets/raw/main/sd-webui-reactor/ReActor_logo_NEW_RU.png?raw=true" alt="logo" width="180px"/>
     
-  ![Version](https://img.shields.io/badge/версия-0.7.0_beta7-green?style=for-the-badge&labelColor=darkgreen)
+  ![Version](https://img.shields.io/badge/версия-0.7.1_beta2-green?style=for-the-badge&labelColor=darkgreen)
   
   <a href="https://boosty.to/artgourieff" target="_blank">
     <img src="https://lovemet.ru/www/boosty.jpg" width="108" alt="Поддержать проект на Boosty"/>
@@ -39,8 +39,15 @@
 
 ## Что нового в последних обновлениях
 
+### 0.7.1 <sub><sup>BETA1
+
+- Использование пробелов в индексах лиц (пример: 0, 1, 2)
+- Список моделей лиц теперь отсортирован по алфавиту
+- [API для создания моделей лиц](./API.md#facemodel-build-api)
+- Правки и улучшения
+
 <details>
-	<summary><a>Нажмите, чтобы посмотреть</a></summary>
+	<summary><a>Нажмите, чтобы посмотреть больше</a></summary>
 
 ### 0.7.0 <sub><sup>BETA2
 
